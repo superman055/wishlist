@@ -115,7 +115,7 @@ canvas{
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  width: [2px];
+  flex: 1 0 25%;
   font-size: 25px;
   color: grey;
 }
