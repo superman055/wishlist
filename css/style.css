@@ -106,6 +106,7 @@ canvas{
   width: 100%;
   background-color: clear;
   z-index: 1;
+  overflow-y: auto;
 }
 
 .grid-item {
